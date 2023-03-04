@@ -1,0 +1,22 @@
+{
+  "$type": "PatMe.Configuration, PatMe",
+  "Version": 1,
+  "Emotes": [
+    {
+      "$type": "PatMe.EmoteDataConfig, PatMe",
+      "OwnerName": "Vryali Melalosa",
+      "EmoteId": 105,
+      "Counter": 255
+    },
+    {
+      "$type": "PatMe.EmoteDataConfig, PatMe",
+      "OwnerName": "Vryali Melalosa",
+      "EmoteId": 146,
+      "Counter": 68
+    }
+  ],
+  "showSpecialPats": true,
+  "showFlyText": true,
+  "showCounterUI": false,
+  "canTrackDotes": true
+}

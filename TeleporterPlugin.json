@@ -1,0 +1,42 @@
+{
+  "$type": "TeleporterPlugin.Configuration, TeleporterPlugin",
+  "UseEnglish": false,
+  "AllowPartialName": true,
+  "AllowPartialAlias": false,
+  "ChatMessage": true,
+  "ChatError": true,
+  "EnableGrandCompany": false,
+  "GrandCompanyAlias": "gc",
+  "EnableEternityRing": true,
+  "EternityRingAlias": "humi",
+  "AliasList": [
+    {
+      "$type": "TeleporterPlugin.Plugin.TeleportAlias, TeleporterPlugin",
+      "Alias": "az",
+      "Aetheryte": "Helix",
+      "AetheryteId": 74,
+      "SubIndex": 0,
+      "Ward": 0,
+      "Plot": 0
+    },
+    {
+      "$type": "TeleporterPlugin.Plugin.TeleportAlias, TeleporterPlugin",
+      "Alias": "azys",
+      "Aetheryte": "Helix",
+      "AetheryteId": 74,
+      "SubIndex": 0,
+      "Ward": 0,
+      "Plot": 0
+    },
+    {
+      "$type": "TeleporterPlugin.Plugin.TeleportAlias, TeleporterPlugin",
+      "Alias": "fc",
+      "Aetheryte": "Estate Hall (Free Company)",
+      "AetheryteId": 164,
+      "SubIndex": 0,
+      "Ward": 0,
+      "Plot": 0
+    }
+  ],
+  "Version": 2
+}
