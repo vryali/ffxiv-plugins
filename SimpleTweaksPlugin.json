@@ -1,0 +1,37 @@
+{
+  "$type": "SimpleTweaksPlugin.SimpleTweaksPluginConfig, SimpleTweaksPlugin",
+  "EnabledTweaks": [
+    "BaitCommand",
+    "ChatTweaks@ClickableLinks",
+    "FixTarget",
+    "HideHotbarLock",
+    "HideMouseAfterInactivity",
+    "AutoOpenCommendWindow",
+    "AutoOpenLootWindow",
+    "IslandQuickCollectAndResume",
+    "RefreshMarketPrices",
+    "RememberQuickGathering",
+    "ChatTweaks@DisableChatMovement",
+    "TooltipTweaks@TrackFadedRolls",
+    "TooltipTweaks@FoodStats",
+    "UiAdjustments@SellMaxTripleTriadCards",
+    "UiAdjustments@HideAchievementsNotifications",
+    "UiAdjustments@HideExperienceBar",
+    "UiAdjustments@CastBarAdjustments"
+  ],
+  "HiddenTweaks": [],
+  "CustomProviders": [],
+  "BlacklistedTweaks": [
+    "StopCraftingButton",
+    "UiAdjustments@LockWindowPosition",
+    "FixedShadowDistance"
+  ],
+  "HideKofi": false,
+  "ShowExperimentalTweaks": false,
+  "DisableAutoOpen": false,
+  "ShowTweakDescriptions": true,
+  "ShowTweakIDs": false,
+  "CustomCulture": "",
+  "Language": "en",
+  "Version": 3
+}

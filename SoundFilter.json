@@ -1,0 +1,19 @@
+{
+  "$type": "SoundFilter.Config.Configuration, SoundFilter",
+  "Enabled": true,
+  "ShowLog": true,
+  "LogEnabled": true,
+  "LogFiltered": true,
+  "LogEntries": 250,
+  "Version": 2,
+  "Filters": [
+    {
+      "$type": "SoundFilter.Config.CustomFilter, SoundFilter",
+      "Name": "Linkpearl",
+      "Enabled": true,
+      "Globs": [
+        "sound/vfx/etc/se_vfx_etc_emot_linkshell.scd/0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "$type": "BDTHPlugin.Configuration, BDTHPlugin",
+  "Version": 0,
+  "UseGizmo": true,
+  "DoSnap": true,
+  "Drag": 0.05,
+  "SortByDistance": false,
+  "AutoVisible": true,
+  "PlaceAnywhere": true
+}
