@@ -6,13 +6,13 @@
       "$type": "PatMe.EmoteDataConfig, PatMe",
       "OwnerName": "Vryali Melalosa",
       "EmoteId": 105,
-      "Counter": 263
+      "Counter": 272
     },
     {
       "$type": "PatMe.EmoteDataConfig, PatMe",
       "OwnerName": "Vryali Melalosa",
       "EmoteId": 146,
-      "Counter": 71
+      "Counter": 73
     }
   ],
   "showSpecialPats": true,
