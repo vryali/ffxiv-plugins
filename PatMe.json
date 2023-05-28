@@ -1,22 +1,59 @@
 {
   "$type": "PatMe.Configuration, PatMe",
-  "Version": 1,
-  "Emotes": [
+  "Version": 2,
+  "EmoteData": [
     {
-      "$type": "PatMe.EmoteDataConfig, PatMe",
-      "OwnerName": "Vryali Melalosa",
-      "EmoteId": 105,
-      "Counter": 272
+      "$type": "PatMe.EmoteOwnerDB, PatMe",
+      "Name": "Vryali Melalosa",
+      "CID": 18014398519891871,
+      "Counters": [
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Pet",
+          "Value": 376
+        },
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Dote",
+          "Value": 88
+        },
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Hug",
+          "Value": 4
+        }
+      ]
     },
     {
-      "$type": "PatMe.EmoteDataConfig, PatMe",
-      "OwnerName": "Vryali Melalosa",
-      "EmoteId": 146,
-      "Counter": 73
+      "$type": "PatMe.EmoteOwnerDB, PatMe",
+      "Name": "Humi Melalosa",
+      "CID": 18014398519875207,
+      "Counters": [
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Pet",
+          "Value": 0
+        },
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Dote",
+          "Value": 0
+        },
+        {
+          "$type": "PatMe.EmoteCounterDB, PatMe",
+          "Name": "Hug",
+          "Value": 0
+        }
+      ]
     }
   ],
   "showSpecialPats": true,
+  "showProgressNotify": true,
   "showFlyText": true,
+  "showFlyTextNames": true,
   "showCounterUI": false,
-  "canTrackDotes": true
+  "lockCounterUI": false,
+  "collapseCounterUI": true,
+  "canTrackDotes": true,
+  "canTrackHugs": true
 }

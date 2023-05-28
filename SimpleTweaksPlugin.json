@@ -1,5 +1,14 @@
 {
   "$type": "SimpleTweaksPlugin.SimpleTweaksPluginConfig, SimpleTweaksPlugin",
+  "Debugging": {
+    "$type": "SimpleTweaksPlugin.Debugging.DebugConfig, SimpleTweaksPlugin",
+    "SelectedPage": "",
+    "SavedValues": {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Object, System.Private.CoreLib]], System.Private.CoreLib"
+    },
+    "SelectedAtkUnitBase": 0,
+    "AtkUnitBaseSearch": ""
+  },
   "EnabledTweaks": [
     "BaitCommand",
     "ChatTweaks@ClickableLinks",
@@ -17,21 +26,29 @@
     "UiAdjustments@SellMaxTripleTriadCards",
     "UiAdjustments@HideAchievementsNotifications",
     "UiAdjustments@HideExperienceBar",
-    "UiAdjustments@CastBarAdjustments"
+    "UiAdjustments@CastBarAdjustments",
+    "BaitCommand"
   ],
   "HiddenTweaks": [],
   "CustomProviders": [],
   "BlacklistedTweaks": [
     "StopCraftingButton",
-    "UiAdjustments@LockWindowPosition",
-    "FixedShadowDistance"
+    "FixedShadowDistance",
+    "RefreshMarketPrices",
+    "TooltipTweaks"
   ],
   "HideKofi": false,
   "ShowExperimentalTweaks": false,
   "DisableAutoOpen": false,
+  "ShowInDevMenu": false,
+  "NoFools": false,
+  "NotBaby": false,
   "ShowTweakDescriptions": true,
   "ShowTweakIDs": false,
   "CustomCulture": "",
   "Language": "en",
+  "LastSeenChangelog": "",
+  "AutoOpenChangelog": false,
+  "DisableChangelogNotification": false,
   "Version": 3
 }
