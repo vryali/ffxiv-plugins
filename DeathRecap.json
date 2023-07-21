@@ -1,0 +1,31 @@
+{
+  "$type": "DeathRecap.Configuration, DeathRecap",
+  "Self": {
+    "$type": "DeathRecap.Configuration+CaptureConfig, DeathRecap",
+    "Capture": true,
+    "NotificationStyle": 1,
+    "OnlyInstances": false,
+    "DisableInPvp": false
+  },
+  "Party": {
+    "$type": "DeathRecap.Configuration+CaptureConfig, DeathRecap",
+    "Capture": true,
+    "NotificationStyle": 1,
+    "OnlyInstances": false,
+    "DisableInPvp": false
+  },
+  "Others": {
+    "$type": "DeathRecap.Configuration+CaptureConfig, DeathRecap",
+    "Capture": false,
+    "NotificationStyle": 1,
+    "OnlyInstances": true,
+    "DisableInPvp": true
+  },
+  "ShowTip": true,
+  "KeepCombatEventsForSeconds": 60,
+  "KeepDeathsForMinutes": 60,
+  "ChatType": 1,
+  "EventFilter": 15,
+  "ShowCombatHistogram": false,
+  "Version": 1
+}
