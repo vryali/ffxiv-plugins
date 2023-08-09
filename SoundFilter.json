@@ -1,7 +1,7 @@
 {
   "$type": "SoundFilter.Config.Configuration, SoundFilter",
   "Enabled": true,
-  "ShowLog": true,
+  "ShowLog": false,
   "LogEnabled": true,
   "LogFiltered": true,
   "LogEntries": 250,
