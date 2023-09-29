@@ -24,8 +24,8 @@
   "ShowTip": true,
   "KeepCombatEventsForSeconds": 60,
   "KeepDeathsForMinutes": 60,
-  "ChatType": 1,
+  "ChatType": 57,
   "EventFilter": 15,
   "ShowCombatHistogram": false,
-  "Version": 1
+  "Version": 2
 }
