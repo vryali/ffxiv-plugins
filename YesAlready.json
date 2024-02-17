@@ -1,0 +1,119 @@
+{
+  "$type": "YesAlready.Configuration, YesAlready",
+  "Version": 1,
+  "Enabled": true,
+  "ForcedYesKey": 0,
+  "DisableKey": 0,
+  "RootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Children": [
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Preserve the following item",
+        "ZoneRestricted": true,
+        "ZoneText": "Amh Araeng",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Preserve the following item",
+        "ZoneRestricted": true,
+        "ZoneText": "Lakeland",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Preserve the following item",
+        "ZoneRestricted": true,
+        "ZoneText": "The Tempest",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Preserve the following item",
+        "ZoneRestricted": true,
+        "ZoneText": "Kholusia",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Preserve the following item",
+        "ZoneRestricted": true,
+        "ZoneText": "The Rak'tika Greatwood",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Preserve the following item",
+        "ZoneRestricted": true,
+        "ZoneText": "Il Mheg",
+        "IsYes": true
+      }
+    ]
+  },
+  "OkRootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Children": [
+      {
+        "$type": "YesAlready.OkEntryNode, YesAlready",
+        "Enabled": false,
+        "Text": "Add some text here!"
+      }
+    ]
+  },
+  "ListRootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Children": [
+      {
+        "$type": "YesAlready.ListEntryNode, YesAlready",
+        "Enabled": false,
+        "Text": "Add some text here!",
+        "TargetRestricted": false,
+        "TargetText": ""
+      }
+    ]
+  },
+  "TalkRootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Children": [
+      {
+        "$type": "YesAlready.TalkEntryNode, YesAlready",
+        "Enabled": false,
+        "TargetText": "Add some text here!"
+      }
+    ]
+  },
+  "DesynthDialogEnabled": false,
+  "DesynthBulkDialogEnabled": false,
+  "MaterializeDialogEnabled": false,
+  "MateriaRetrieveDialogEnabled": false,
+  "ItemInspectionResultEnabled": false,
+  "ItemInspectionResultRateLimiter": 0,
+  "RetainerTaskAskEnabled": false,
+  "RetainerTaskResultEnabled": false,
+  "GrandCompanySupplyReward": false,
+  "ShopCardDialog": false,
+  "ShopExchangeItemDialogEnabled": false,
+  "JournalResultCompleteEnabled": false,
+  "ContentsFinderConfirmEnabled": false,
+  "ContentsFinderOneTimeConfirmEnabled": false,
+  "InclusionShopRememberEnabled": false,
+  "InclusionShopRememberCategory": 4,
+  "InclusionShopRememberSubcategory": 1,
+  "GuildLeveDifficultyConfirm": false,
+  "FallGuysRegisterConfirm": false,
+  "FallGuysExitConfirm": false,
+  "RetainerTransferProgressConfirm": false,
+  "DesynthesisResults": false,
+  "AetherialReductionResults": false
+}

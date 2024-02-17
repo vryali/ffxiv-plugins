@@ -1,0 +1,8 @@
+{
+  "$type": "TwitchXIV.Configuration, TwitchXIV",
+  "Username": "Your twitch.tv username",
+  "ChannelToSend": "Channel to send chat to",
+  "OAuthCode": "",
+  "TwitchEnabled": true,
+  "Version": 0
+}

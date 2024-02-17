@@ -1,0 +1,7 @@
+{
+  "$type": "Globetrotter.Configuration, Globetrotter",
+  "Version": 1,
+  "ShowOnHover": false,
+  "ShowOnDecipher": true,
+  "ShowOnOpen": false
+}
