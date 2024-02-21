@@ -10,17 +10,17 @@
         {
           "$type": "PatMe.EmoteCounterDB, PatMe",
           "Name": "Pet",
-          "Value": 572
+          "Value": 586
         },
         {
           "$type": "PatMe.EmoteCounterDB, PatMe",
           "Name": "Dote",
-          "Value": 137
+          "Value": 144
         },
         {
           "$type": "PatMe.EmoteCounterDB, PatMe",
           "Name": "Hug",
-          "Value": 55
+          "Value": 59
         }
       ]
     },
