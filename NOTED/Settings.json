@@ -1,0 +1,125 @@
+{
+  "$type": "NOTED.Settings, NOTED",
+  "Duties": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[NOTED.Models.Duty, NOTED]], System.Private.CoreLib",
+    "856": {
+      "$type": "NOTED.Models.Duty, NOTED",
+      "ID": 856,
+      "Name": "Eden's Gate: Sepulture (Savage)",
+      "Notes": [
+        {
+          "$type": "NOTED.Models.Note, NOTED",
+          "Title": "Phase 3 - Rotating ground",
+          "Text": "2 floor pulses into symbols resolve.\nTriangles are on DPS and go outside\nSquares are on tank/heals and go inside\n5 or 6 pulses total.",
+          "Jobs": {
+            "$type": "NOTED.Models.JobsData, NOTED",
+            "Map": {
+              "$type": "System.Collections.Generic.Dictionary`2[[NOTED.Helpers.JobRoles, NOTED],[System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib]], System.Private.CoreLib",
+              "Tank": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              "Healer": [
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              "DPSMelee": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              "DPSRanged": [
+                false,
+                false,
+                false,
+                false
+              ],
+              "DPSCaster": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              "Crafter": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              "Gatherer": [
+                false,
+                false,
+                false
+              ]
+            },
+            "Text": "All",
+            "IsEmpty": true
+          },
+          "Enabled": true,
+          "AutoCopy": false
+        }
+      ]
+    }
+  },
+  "Hidden": true,
+  "HideInCombat": false,
+  "Locked": false,
+  "Preview": false,
+  "LeftClickToCopy": true,
+  "RightClickToEdit": true,
+  "ShiftLeftClickToSend": true,
+  "LockedBackgroundColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "W": 0.25
+  },
+  "UnlockedBackgroundColor": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "W": 0.75
+  },
+  "KeybindPassthrough": false,
+  "HideKeybind": {
+    "$type": "NOTED.Models.KeyBind, NOTED",
+    "Key": 72,
+    "Ctrl": true,
+    "Alt": false,
+    "Shift": true
+  },
+  "NextNoteKeybind": {
+    "$type": "NOTED.Models.KeyBind, NOTED",
+    "Key": 39,
+    "Ctrl": true,
+    "Alt": false,
+    "Shift": true
+  },
+  "PreviousNoteKeybind": {
+    "$type": "NOTED.Models.KeyBind, NOTED",
+    "Key": 37,
+    "Ctrl": true,
+    "Alt": false,
+    "Shift": true
+  }
+}
