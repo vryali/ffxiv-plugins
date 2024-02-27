@@ -139,7 +139,7 @@
     }
   },
   "LootPins": [],
-  "EnablePriceCheck": true,
+  "EnablePriceCheck": false,
   "RecentPartyList": {
     "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[MapPartyAssist.Types.MPAMember, MapPartyAssist]], System.Private.CoreLib"
   },
