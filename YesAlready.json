@@ -1,7 +1,7 @@
 {
   "$type": "YesAlready.Configuration, YesAlready",
   "Version": 1,
-  "Enabled": true,
+  "Enabled": false,
   "ForcedYesKey": 0,
   "DisableKey": 0,
   "RootFolder": {
@@ -55,6 +55,14 @@
         "ZoneRestricted": true,
         "ZoneText": "Il Mheg",
         "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Discard the",
+        "ZoneRestricted": true,
+        "ZoneText": "The Hourglass",
+        "IsYes": true
       }
     ]
   },
@@ -66,6 +74,21 @@
         "$type": "YesAlready.OkEntryNode, YesAlready",
         "Enabled": false,
         "Text": "Add some text here!"
+      },
+      {
+        "$type": "YesAlready.OkEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": ""
+      },
+      {
+        "$type": "YesAlready.OkEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": ""
+      },
+      {
+        "$type": "YesAlready.OkEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": ""
       }
     ]
   },
