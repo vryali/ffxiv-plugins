@@ -1,7 +1,7 @@
 {
   "$type": "YesAlready.Configuration, YesAlready",
   "Version": 1,
-  "Enabled": false,
+  "Enabled": true,
   "ForcedYesKey": 0,
   "DisableKey": 0,
   "RootFolder": {

@@ -77,6 +77,158 @@
           "AutoCopy": false
         }
       ]
+    },
+    "1009": {
+      "$type": "NOTED.Models.Duty, NOTED",
+      "ID": 1009,
+      "Name": "Asphodelos: The Fourth Circle (Savage)",
+      "Notes": [
+        {
+          "$type": "NOTED.Models.Note, NOTED",
+          "Title": "Act 2",
+          "Text": "3 pulses - E/W, N/S, Towers\n\nDPS Tether (Away)\nSupport Tether (Away)\n\n\nDPS - 15s\n\nSupports - Furen > Audri > Vry > Tem(nothing)\n\nHealer= Fire + Dark\nTank   = Fire + Nothing \n\nWind pops first",
+          "Jobs": {
+            "$type": "NOTED.Models.JobsData, NOTED",
+            "Map": {
+              "$type": "System.Collections.Generic.Dictionary`2[[NOTED.Helpers.JobRoles, NOTED],[System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib]], System.Private.CoreLib",
+              "Tank": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              "Healer": [
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              "DPSMelee": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              "DPSRanged": [
+                false,
+                false,
+                false,
+                false
+              ],
+              "DPSCaster": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              "Crafter": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              "Gatherer": [
+                false,
+                false,
+                false
+              ]
+            },
+            "Text": "All",
+            "IsEmpty": true
+          },
+          "Enabled": true,
+          "AutoCopy": false
+        }
+      ]
+    },
+    "1176": {
+      "$type": "NOTED.Models.Duty, NOTED",
+      "ID": 1176,
+      "Name": "Aloalo Island",
+      "Notes": [
+        {
+          "$type": "NOTED.Models.Note, NOTED",
+          "Title": "Aloalo",
+          "Text": "Left Path:\n\nFish to your hearts content, causes the tide to rise and go right\n\nRight: - Took patch of sand (Didn't choose rock) - Hand over bait - Yes\nKiolled the big fish instead of the x'zomits first, no apparent diff\n\n--------------------------------------------\nCenter Path:\n\nKilled 4 crawlers on cornacopia, causes it to glow green.\nIf you kill the tree first, it made a path to the right, we don't know\n if we were standing on it to cause it or not.\n\nWe tried killing 1 crawler and then 3 from the last but it didn't light up.\nWe can try killing 4 with nobody on to see what happens.\n\nIn the right path, Xyphe hit Lion and she ran after inspecting the tree\nGave us the 8th sticky\n-------------------------------------------\nRight Path:\n\nStood up both fallen statues, left first, then right\n\nAsked the faerie to take us to see the secrets",
+          "Jobs": {
+            "$type": "NOTED.Models.JobsData, NOTED",
+            "Map": {
+              "$type": "System.Collections.Generic.Dictionary`2[[NOTED.Helpers.JobRoles, NOTED],[System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib]], System.Private.CoreLib",
+              "Tank": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              "Healer": [
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              "DPSMelee": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              "DPSRanged": [
+                false,
+                false,
+                false,
+                false
+              ],
+              "DPSCaster": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              "Crafter": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              "Gatherer": [
+                false,
+                false,
+                false
+              ]
+            },
+            "Text": "All",
+            "IsEmpty": true
+          },
+          "Enabled": true,
+          "AutoCopy": false
+        }
+      ]
     }
   },
   "Hidden": true,

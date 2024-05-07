@@ -11,7 +11,7 @@
   "HighlightClosestLink": true,
   "ShowStatsWindowTooltips": true,
   "ShowAdvancedFilters": false,
-  "ProgressTableCount": 0,
+  "ProgressTableCount": 1,
   "ProgressTableRate": 1,
   "ClearSequenceCount": 1,
   "TotalMapsClearSequence": false,
@@ -22,7 +22,7 @@
     "179": {
       "$type": "MapPartyAssist.Settings.DutyConfiguration, MapPartyAssist",
       "DutyId": 179,
-      "DisplayClearSequence": false,
+      "DisplayClearSequence": true,
       "DisplayRunsSinceLastClear": true,
       "DisplayDeaths": false,
       "OmitZeroCheckpoints": false
@@ -30,7 +30,7 @@
     "268": {
       "$type": "MapPartyAssist.Settings.DutyConfiguration, MapPartyAssist",
       "DutyId": 268,
-      "DisplayClearSequence": false,
+      "DisplayClearSequence": true,
       "DisplayRunsSinceLastClear": true,
       "DisplayDeaths": false,
       "OmitZeroCheckpoints": false
@@ -46,7 +46,7 @@
     "586": {
       "$type": "MapPartyAssist.Settings.DutyConfiguration, MapPartyAssist",
       "DutyId": 586,
-      "DisplayClearSequence": false,
+      "DisplayClearSequence": true,
       "DisplayRunsSinceLastClear": true,
       "DisplayDeaths": false,
       "OmitZeroCheckpoints": false
@@ -54,7 +54,7 @@
     "688": {
       "$type": "MapPartyAssist.Settings.DutyConfiguration, MapPartyAssist",
       "DutyId": 688,
-      "DisplayClearSequence": false,
+      "DisplayClearSequence": true,
       "DisplayRunsSinceLastClear": true,
       "DisplayDeaths": false,
       "OmitZeroCheckpoints": false
@@ -62,7 +62,7 @@
     "745": {
       "$type": "MapPartyAssist.Settings.DutyConfiguration, MapPartyAssist",
       "DutyId": 745,
-      "DisplayClearSequence": false,
+      "DisplayClearSequence": true,
       "DisplayRunsSinceLastClear": true,
       "DisplayDeaths": false,
       "OmitZeroCheckpoints": false
@@ -70,7 +70,7 @@
     "819": {
       "$type": "MapPartyAssist.Settings.DutyConfiguration, MapPartyAssist",
       "DutyId": 819,
-      "DisplayClearSequence": false,
+      "DisplayClearSequence": true,
       "DisplayRunsSinceLastClear": true,
       "DisplayDeaths": false,
       "OmitZeroCheckpoints": false
@@ -78,7 +78,7 @@
     "909": {
       "$type": "MapPartyAssist.Settings.DutyConfiguration, MapPartyAssist",
       "DutyId": 909,
-      "DisplayClearSequence": false,
+      "DisplayClearSequence": true,
       "DisplayRunsSinceLastClear": true,
       "DisplayDeaths": false,
       "OmitZeroCheckpoints": false
