@@ -3,7 +3,9 @@
   "Version": 1,
   "Enabled": true,
   "ForcedYesKey": 0,
+  "ForcedTalkKey": 0,
   "DisableKey": 0,
+  "SeparateForcedKeys": false,
   "RootFolder": {
     "$type": "YesAlready.TextFolderNode, YesAlready",
     "Name": "/",
@@ -12,6 +14,10 @@
         "$type": "YesAlready.TextEntryNode, YesAlready",
         "Enabled": true,
         "Text": "Preserve the following item",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
         "ZoneRestricted": true,
         "ZoneText": "Amh Araeng",
         "IsYes": true
@@ -20,6 +26,10 @@
         "$type": "YesAlready.TextEntryNode, YesAlready",
         "Enabled": true,
         "Text": "Preserve the following item",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
         "ZoneRestricted": true,
         "ZoneText": "Lakeland",
         "IsYes": true
@@ -28,6 +38,10 @@
         "$type": "YesAlready.TextEntryNode, YesAlready",
         "Enabled": true,
         "Text": "Preserve the following item",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
         "ZoneRestricted": true,
         "ZoneText": "The Tempest",
         "IsYes": true
@@ -36,6 +50,10 @@
         "$type": "YesAlready.TextEntryNode, YesAlready",
         "Enabled": true,
         "Text": "Preserve the following item",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
         "ZoneRestricted": true,
         "ZoneText": "Kholusia",
         "IsYes": true
@@ -44,6 +62,10 @@
         "$type": "YesAlready.TextEntryNode, YesAlready",
         "Enabled": true,
         "Text": "Preserve the following item",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
         "ZoneRestricted": true,
         "ZoneText": "The Rak'tika Greatwood",
         "IsYes": true
@@ -52,6 +74,10 @@
         "$type": "YesAlready.TextEntryNode, YesAlready",
         "Enabled": true,
         "Text": "Preserve the following item",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
         "ZoneRestricted": true,
         "ZoneText": "Il Mheg",
         "IsYes": true
@@ -60,11 +86,28 @@
         "$type": "YesAlready.TextEntryNode, YesAlready",
         "Enabled": true,
         "Text": "Discard the",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
         "ZoneRestricted": true,
         "ZoneText": "The Hourglass",
         "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Discard the covering permission",
+        "IsConditional": false,
+        "ConditionalNumberTemplate": "",
+        "ConditionalNumber": 0,
+        "ComparisonType": 3,
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
       }
-    ]
+    ],
+    "Enabled": true
   },
   "OkRootFolder": {
     "$type": "YesAlready.TextFolderNode, YesAlready",
@@ -90,7 +133,8 @@
         "Enabled": true,
         "Text": ""
       }
-    ]
+    ],
+    "Enabled": true
   },
   "ListRootFolder": {
     "$type": "YesAlready.TextFolderNode, YesAlready",
@@ -103,7 +147,8 @@
         "TargetRestricted": false,
         "TargetText": ""
       }
-    ]
+    ],
+    "Enabled": true
   },
   "TalkRootFolder": {
     "$type": "YesAlready.TextFolderNode, YesAlready",
@@ -114,7 +159,14 @@
         "Enabled": false,
         "TargetText": "Add some text here!"
       }
-    ]
+    ],
+    "Enabled": true
+  },
+  "NumericsRootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Children": [],
+    "Enabled": true
   },
   "DesynthDialogEnabled": false,
   "DesynthBulkDialogEnabled": false,
@@ -131,12 +183,23 @@
   "ContentsFinderConfirmEnabled": false,
   "ContentsFinderOneTimeConfirmEnabled": false,
   "InclusionShopRememberEnabled": false,
-  "InclusionShopRememberCategory": 4,
-  "InclusionShopRememberSubcategory": 1,
+  "InclusionShopRememberCategory": 7,
+  "InclusionShopRememberSubcategory": 3,
   "GuildLeveDifficultyConfirm": false,
   "FallGuysRegisterConfirm": false,
   "FallGuysExitConfirm": false,
+  "RetainerTransferListConfirm": false,
   "RetainerTransferProgressConfirm": false,
   "DesynthesisResults": false,
-  "AetherialReductionResults": false
+  "AetherialReductionResults": false,
+  "FashionCheckQuit": false,
+  "LordOfVerminionQuit": false,
+  "ChocoboRacingQuit": false,
+  "PartyFinderJoinConfirm": false,
+  "GimmickYesNo": false,
+  "LotteryWeeklyInput": false,
+  "TradeMultiple": false,
+  "TransmuteMode": 0,
+  "KupoOfFortune": false,
+  "CustomDeliveries": false
 }

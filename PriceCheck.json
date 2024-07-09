@@ -9,7 +9,7 @@
   "AllowKeybindAfterHover": true,
   "RestrictInCombat": true,
   "RestrictInContent": true,
-  "HoverDelay": 1,
+  "HoverDelay": 0,
   "ShowOverlay": false,
   "ShowOverlayOnLogin": false,
   "ShowOverlayByKeybind": false,

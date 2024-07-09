@@ -2,158 +2,6 @@
   "$type": "NOTED.Settings, NOTED",
   "Duties": {
     "$type": "System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[NOTED.Models.Duty, NOTED]], System.Private.CoreLib",
-    "856": {
-      "$type": "NOTED.Models.Duty, NOTED",
-      "ID": 856,
-      "Name": "Eden's Gate: Sepulture (Savage)",
-      "Notes": [
-        {
-          "$type": "NOTED.Models.Note, NOTED",
-          "Title": "Phase 3 - Rotating ground",
-          "Text": "2 floor pulses into symbols resolve.\nTriangles are on DPS and go outside\nSquares are on tank/heals and go inside\n5 or 6 pulses total.",
-          "Jobs": {
-            "$type": "NOTED.Models.JobsData, NOTED",
-            "Map": {
-              "$type": "System.Collections.Generic.Dictionary`2[[NOTED.Helpers.JobRoles, NOTED],[System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib]], System.Private.CoreLib",
-              "Tank": [
-                false,
-                false,
-                false,
-                false,
-                false,
-                false
-              ],
-              "Healer": [
-                false,
-                false,
-                false,
-                false,
-                false
-              ],
-              "DPSMelee": [
-                false,
-                false,
-                false,
-                false,
-                false,
-                false,
-                false,
-                false
-              ],
-              "DPSRanged": [
-                false,
-                false,
-                false,
-                false
-              ],
-              "DPSCaster": [
-                false,
-                false,
-                false,
-                false,
-                false,
-                false
-              ],
-              "Crafter": [
-                false,
-                false,
-                false,
-                false,
-                false,
-                false,
-                false,
-                false
-              ],
-              "Gatherer": [
-                false,
-                false,
-                false
-              ]
-            },
-            "Text": "All",
-            "IsEmpty": true
-          },
-          "Enabled": true,
-          "AutoCopy": false
-        }
-      ]
-    },
-    "1009": {
-      "$type": "NOTED.Models.Duty, NOTED",
-      "ID": 1009,
-      "Name": "Asphodelos: The Fourth Circle (Savage)",
-      "Notes": [
-        {
-          "$type": "NOTED.Models.Note, NOTED",
-          "Title": "Act 2",
-          "Text": "3 pulses - E/W, N/S, Towers\n\nDPS Tether (Away)\nSupport Tether (Away)\n\n\nDPS - 15s\n\nSupports - Furen > Audri > Vry > Tem(nothing)\n\nHealer= Fire + Dark\nTank   = Fire + Nothing \n\nWind pops first",
-          "Jobs": {
-            "$type": "NOTED.Models.JobsData, NOTED",
-            "Map": {
-              "$type": "System.Collections.Generic.Dictionary`2[[NOTED.Helpers.JobRoles, NOTED],[System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib]], System.Private.CoreLib",
-              "Tank": [
-                false,
-                false,
-                false,
-                false,
-                false,
-                false
-              ],
-              "Healer": [
-                false,
-                false,
-                false,
-                false,
-                false
-              ],
-              "DPSMelee": [
-                false,
-                false,
-                false,
-                false,
-                false,
-                false,
-                false,
-                false
-              ],
-              "DPSRanged": [
-                false,
-                false,
-                false,
-                false
-              ],
-              "DPSCaster": [
-                false,
-                false,
-                false,
-                false,
-                false,
-                false
-              ],
-              "Crafter": [
-                false,
-                false,
-                false,
-                false,
-                false,
-                false,
-                false,
-                false
-              ],
-              "Gatherer": [
-                false,
-                false,
-                false
-              ]
-            },
-            "Text": "All",
-            "IsEmpty": true
-          },
-          "Enabled": true,
-          "AutoCopy": false
-        }
-      ]
-    },
     "1176": {
       "$type": "NOTED.Models.Duty, NOTED",
       "ID": 1176,
@@ -162,7 +10,7 @@
         {
           "$type": "NOTED.Models.Note, NOTED",
           "Title": "Aloalo",
-          "Text": "Left Path:\n\nFish to your hearts content, causes the tide to rise and go right\n\nRight: - Took patch of sand (Didn't choose rock) - Hand over bait - Yes\nKiolled the big fish instead of the x'zomits first, no apparent diff\n\n--------------------------------------------\nCenter Path:\n\nKilled 4 crawlers on cornacopia, causes it to glow green.\nIf you kill the tree first, it made a path to the right, we don't know\n if we were standing on it to cause it or not.\n\nWe tried killing 1 crawler and then 3 from the last but it didn't light up.\nWe can try killing 4 with nobody on to see what happens.\n\nIn the right path, Xyphe hit Lion and she ran after inspecting the tree\nGave us the 8th sticky\n-------------------------------------------\nRight Path:\n\nStood up both fallen statues, left first, then right\n\nAsked the faerie to take us to see the secrets",
+          "Text": "7Left Path:\n\nFish to your hearts content, causes the tide to rise and go right\n\nRight: - Took patch of sand (Didn't choose rock)\n- Hand over bait - Yes\nKiolled the big fish instead of the x'zomits first, no apparent diff\n\n\"We should press on\" - Going left - Saved the NPC from dying\n\n\"We should press on\" - Going left - Ignore NPC...?\n\nSunny weather, Fire drakes(?)\nRainy weather, Lightning drakes\n\n--------------------------------------------\nCenter Path:\n\nKilled 4 crawlers on cornacopia, causes it to glow green.\nIf you kill the tree first, it made a path to the right, we don't know\n if we were standing on it to cause it or not.\n\nWe tried killing 1 crawler and then 3 from the last but it didn't light up.\nWe can try killing 4 with nobody on to see what happens. (Nothing happened)\n\nIn the right path, Xyphe hit Lion and she ran after inspecting the tree\nGave us the 8th sticky - Also did not hitting her\n-------------------------------------------\nRight Path:\n\nStood up both fallen statues, left first, then right\n\nAsked the faerie to take us to see the secrets\n\nIgnored both fallen statues\nAsked the faerie to take us to see the secrets\n\nCan't jump over the whoopie cushions, got all 5 both times we think\n\nLeft statue only, declined 3x in a row\nKilled big boar > little boars\nPicked no chests\n\nOn the statues:\nO messenger from beyond the horizon, hear me.\nStart Whale, clockwise once, counterclockwise once, /thavdance\n\nStart north\nO dancer of the skies, hear me.\n/blowkiss, Clockwise once, /dance\n\nStart sparrow\nO wayfarer of land and sea, hear me.\nSparrow > Whale > Turtlex2, /bow\n\nDid Whale > Turtle > Sparrow statues\nCorrect is Sparrow > Whale > Turtle\nCurrently, 3, 5, 7-9",
           "Jobs": {
             "$type": "NOTED.Models.JobsData, NOTED",
             "Map": {
@@ -190,6 +38,7 @@
                 false,
                 false,
                 false,
+                false,
                 false
               ],
               "DPSRanged": [
@@ -199,6 +48,7 @@
                 false
               ],
               "DPSCaster": [
+                false,
                 false,
                 false,
                 false,
