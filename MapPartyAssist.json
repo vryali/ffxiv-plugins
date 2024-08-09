@@ -4,6 +4,7 @@
   "MasterSwitch": true,
   "ArchiveThresholdHours": 24,
   "UndockZoneWindow": false,
+  "HideZoneTable": false,
   "HideZoneTableWhenEmpty": false,
   "RequireDoubleClickOnClearAll": false,
   "NoOverwriteMapLink": false,
@@ -82,6 +83,14 @@
       "DisplayRunsSinceLastClear": true,
       "DisplayDeaths": false,
       "OmitZeroCheckpoints": false
+    },
+    "993": {
+      "$type": "MapPartyAssist.Settings.DutyConfiguration, MapPartyAssist",
+      "DutyId": 993,
+      "DisplayClearSequence": false,
+      "DisplayRunsSinceLastClear": true,
+      "DisplayDeaths": false,
+      "OmitZeroCheckpoints": false
     }
   },
   "StatsWindowFilters": {
@@ -111,7 +120,8 @@
         "688": true,
         "745": true,
         "819": true,
-        "909": true
+        "909": true,
+        "993": true
       }
     },
     "OwnerFilter": {
@@ -141,6 +151,7 @@
   },
   "LootPins": [],
   "EnablePriceCheck": false,
+  "MapLinkChat": null,
   "RecentPartyList": {
     "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[MapPartyAssist.Types.MPAMember, MapPartyAssist]], System.Private.CoreLib"
   },

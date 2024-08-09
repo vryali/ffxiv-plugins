@@ -26,3 +26,12 @@ if [ ! -h "${FFXIV_DIR}/NOTED/Settings.json" ]; then
 else
     echo "NOTED/Settings.json: already a symlink."
 fi
+
+# Check to see if the character data is on google drive and symlinked
+CHR_DATA='/home/vry/.xlcore/ffxivConfig/FFXIV_CHR00400000009ED79F'
+GDRIVE="/data/Insync/jwolfe@orphicsolutions.com/Google Drive/Personal/FFXIV/FFXIV_CHR00400000009ED79F/"
+
+if [ ! -d "$CHR_DATA" -o ! -h "${CHR_DATA}" ]; then
+    echo "Looking for Character Data: $CHR_DATA"
+    echo "Does not exist or is not a symlink"
+fi
