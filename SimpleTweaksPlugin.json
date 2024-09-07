@@ -6,6 +6,7 @@
     "SavedValues": {
       "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Object, System.Private.CoreLib]], System.Private.CoreLib"
     },
+    "Undocked": [],
     "SelectedAtkUnitBase": 0,
     "AtkUnitBaseSearch": ""
   },
@@ -30,19 +31,35 @@
     "BaitCommand"
   ],
   "HiddenTweaks": [],
-  "CustomProviders": [],
+  "CustomTweakProviders": [],
   "BlacklistedTweaks": [
-    "StopCraftingButton",
-    "FixedShadowDistance",
-    "RefreshMarketPrices",
-    "TooltipTweaks"
+    "UiAdjustments@ExtendedDesynthesisWindow",
+    "UiAdjustments@ActionPressMirroring",
+    "UiAdjustments@ControlHintMirroring",
+    "UiAdjustments@StopCraftingButton::2",
+    "UiAdjustments@FadeUnavailableActions",
+    "UiAdjustments@LockWindowPosition"
   ],
+  "HiddenCategories": [],
+  "CustomizedCommands": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib"
+  },
+  "DisabledCommandAlias": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib]], System.Private.CoreLib"
+  },
   "HideKofi": false,
   "ShowExperimentalTweaks": false,
   "DisableAutoOpen": false,
   "ShowInDevMenu": false,
   "NoFools": false,
   "NotBaby": false,
+  "AnalyticsOptOut": false,
+  "ShowAllTweaksTab": true,
+  "ShowEnabledTweaksTab": true,
+  "ShowOtherTweaksTab": true,
+  "NoCallerInLog": false,
+  "UseFuzzyTweakSearch": true,
+  "DismissedUpdateNotice": true,
   "ShowTweakDescriptions": true,
   "ShowTweakIDs": false,
   "CustomCulture": "",
@@ -50,5 +67,7 @@
   "LastSeenChangelog": "",
   "AutoOpenChangelog": false,
   "DisableChangelogNotification": false,
+  "MetricsIdentifier": "B257695D2855EE7BE18A478DF1DACFF1BC9168D25D11CC101934A835807FFD59",
+  "FestiveDecorationType": -2,
   "Version": 3
 }
