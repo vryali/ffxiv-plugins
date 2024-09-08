@@ -1,0 +1,37 @@
+{
+  "$type": "XIVComboExpandedestPlugin.PluginConfiguration, XIVComboExpandedest",
+  "Version": 5,
+  "EnabledActionsV5": [
+    2101,
+    2108,
+    2103,
+    2501,
+    2502,
+    2504,
+    2802,
+    1902,
+    1905,
+    1904,
+    2102,
+    3201,
+    3202,
+    2524,
+    3701,
+    3702,
+    3705,
+    2525
+  ],
+  "EnabledActionsV4": [],
+  "Debug": false,
+  "HideChildren": true,
+  "DancerDanceCompatActionIDs": [
+    15989,
+    16013,
+    16007,
+    16008
+  ],
+  "RegressDelay": 0.0,
+  "MeleeOffset": 0.0,
+  "LucidMPThreshold": 8000,
+  "LucidCooldownOffset": 0.0
+}
