@@ -5971,72 +5971,212 @@
       },
       {
         "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
-        "Name": "Imported",
-        "MapID": 990,
-        "Time": "2024-09-21T21:33:56+00:00",
+        "Name": "First Boss - Center Numbers",
+        "MapID": 946,
+        "Time": "2024-10-03T19:39:36.1496404+00:00",
         "A": {
           "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
-          "X": 100.004,
+          "X": 0.05,
           "Y": 0.0,
-          "Z": 87.507,
+          "Z": -116.455,
           "ID": 0,
           "Active": true
         },
         "B": {
           "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
-          "X": 0.0,
+          "X": 18.5,
           "Y": 0.0,
-          "Z": 0.0,
+          "Z": -100.0,
           "ID": 1,
-          "Active": false
+          "Active": true
         },
         "C": {
           "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
-          "X": 0.0,
+          "X": 0.05,
           "Y": 0.0,
-          "Z": 0.0,
+          "Z": -82.0,
           "ID": 2,
-          "Active": false
+          "Active": true
         },
         "D": {
           "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
-          "X": 0.0,
+          "X": -18.5,
           "Y": 0.0,
-          "Z": 0.0,
+          "Z": -100.0,
           "ID": 3,
-          "Active": false
+          "Active": true
         },
         "One": {
           "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
-          "X": 0.0,
+          "X": 3.491,
           "Y": 0.0,
-          "Z": 0.0,
+          "Z": -104.325,
           "ID": 4,
-          "Active": false
+          "Active": true
         },
         "Two": {
           "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
-          "X": 0.0,
+          "X": 3.355,
           "Y": 0.0,
-          "Z": 0.0,
+          "Z": -97.642,
           "ID": 5,
-          "Active": false
+          "Active": true
         },
         "Three": {
           "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
-          "X": 0.0,
+          "X": -2.432,
           "Y": 0.0,
-          "Z": 0.0,
+          "Z": -97.692,
           "ID": 6,
-          "Active": false
+          "Active": true
         },
         "Four": {
           "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
-          "X": 0.0,
+          "X": -2.397,
           "Y": 0.0,
-          "Z": 0.0,
+          "Z": -104.398,
           "ID": 7,
-          "Active": false
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "M3S",
+        "MapID": 990,
+        "Time": "2024-10-06T20:04:45.0661808+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.95,
+          "Y": 0.0,
+          "Z": 92.901,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 106.809,
+          "Y": 0.0,
+          "Z": 99.945,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.071,
+          "Y": 0.0,
+          "Z": 106.708,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.197,
+          "Y": 0.0,
+          "Z": 99.992,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 91.681,
+          "Y": 0.0,
+          "Z": 91.469,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 108.454,
+          "Y": 0.0,
+          "Z": 91.415,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 108.434,
+          "Y": 0.0,
+          "Z": 108.325,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 91.514,
+          "Y": 0.0,
+          "Z": 108.347,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Statice",
+        "MapID": 979,
+        "Time": "2024-10-07T01:52:42.2819387+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -199.931,
+          "Y": -200.0,
+          "Z": -13.468,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -185.032,
+          "Y": -200.0,
+          "Z": -1.916,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -199.629,
+          "Y": -200.0,
+          "Z": 13.474,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -214.044,
+          "Y": -200.0,
+          "Z": -0.741,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 212.083,
+          "Y": -300.0,
+          "Z": -12.267,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 212.07,
+          "Y": -300.0,
+          "Z": 12.015,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 188.054,
+          "Y": -300.0,
+          "Z": 11.951,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 187.873,
+          "Y": -300.0,
+          "Z": -12.467,
+          "ID": 7,
+          "Active": true
         }
       }
     ]
