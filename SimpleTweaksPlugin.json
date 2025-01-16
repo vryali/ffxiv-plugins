@@ -27,8 +27,7 @@
     "UiAdjustments@SellMaxTripleTriadCards",
     "UiAdjustments@HideAchievementsNotifications",
     "UiAdjustments@HideExperienceBar",
-    "UiAdjustments@CastBarAdjustments",
-    "BaitCommand"
+    "UiAdjustments@CastBarAdjustments"
   ],
   "HiddenTweaks": [],
   "CustomTweakProviders": [],
@@ -59,7 +58,7 @@
   "ShowOtherTweaksTab": true,
   "NoCallerInLog": false,
   "UseFuzzyTweakSearch": true,
-  "DismissedUpdateNotice": true,
+  "DismissedUpdateNotice": false,
   "ShowTweakDescriptions": true,
   "ShowTweakIDs": false,
   "CustomCulture": "",
@@ -67,7 +66,7 @@
   "LastSeenChangelog": "",
   "AutoOpenChangelog": false,
   "DisableChangelogNotification": false,
-  "MetricsIdentifier": "B257695D2855EE7BE18A478DF1DACFF1BC9168D25D11CC101934A835807FFD59",
+  "MetricsIdentifier": null,
   "FestiveDecorationType": -2,
   "Version": 3
 }

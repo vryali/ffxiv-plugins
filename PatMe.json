@@ -10,39 +10,17 @@
         {
           "$type": "PatMe.EmoteCounterDB, PatMe",
           "Name": "Pet",
-          "Value": 767
+          "Value": 384
         },
         {
           "$type": "PatMe.EmoteCounterDB, PatMe",
           "Name": "Dote",
-          "Value": 199
+          "Value": 102
         },
         {
           "$type": "PatMe.EmoteCounterDB, PatMe",
           "Name": "Hug",
-          "Value": 103
-        }
-      ]
-    },
-    {
-      "$type": "PatMe.EmoteOwnerDB, PatMe",
-      "Name": "Humi Melalosa",
-      "CID": 18014398519875207,
-      "Counters": [
-        {
-          "$type": "PatMe.EmoteCounterDB, PatMe",
-          "Name": "Pet",
-          "Value": 0
-        },
-        {
-          "$type": "PatMe.EmoteCounterDB, PatMe",
-          "Name": "Dote",
-          "Value": 0
-        },
-        {
-          "$type": "PatMe.EmoteCounterDB, PatMe",
-          "Name": "Hug",
-          "Value": 0
+          "Value": 12
         }
       ]
     }
