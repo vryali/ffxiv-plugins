@@ -18,15 +18,6 @@ for file in $plugins; do
     fi
 done
 
-# Noted is nexted, just one file
-if [ ! -h "${FFXIV_DIR}/NOTED/Settings.json" ]; then
-    mv ${FFXIV_DIR}/NOTED/Settings.json ${SRC_DIR}/NOTED/Settings.json
-    ln -sf ${SRC_DIR}/NOTED/Settings.json ${FFXIV_DIR}/NOTED/Settings.json
-    echo "... Copied NOTED/Settings.json to repo"
-else
-    echo "NOTED/Settings.json: already a symlink."
-fi
-
 # Backup the characater config in case it gets hosed
 # Note: the / at the end of source is important, the lack of / at the end of target is important
 CHR_DATA='/home/vry/.xlcore/ffxivConfig/FFXIV_CHR00400000009ED79F/'
