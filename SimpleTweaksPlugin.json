@@ -37,7 +37,8 @@
     "UiAdjustments@ControlHintMirroring",
     "UiAdjustments@StopCraftingButton::2",
     "UiAdjustments@FadeUnavailableActions",
-    "UiAdjustments@LockWindowPosition"
+    "UiAdjustments@LockWindowPosition",
+    "UiAdjustments@SubmarineDestinationLetters"
   ],
   "HiddenCategories": [],
   "CustomizedCommands": {
@@ -48,7 +49,9 @@
   },
   "HideKofi": false,
   "ShowExperimentalTweaks": false,
-  "DisableAutoOpen": false,
+  "DisableAutoOpen": null,
+  "DisableAutoOpenConfig": false,
+  "DisableAutoOpenDebug": false,
   "ShowInDevMenu": false,
   "NoFools": false,
   "NotBaby": false,
@@ -58,7 +61,6 @@
   "ShowOtherTweaksTab": true,
   "NoCallerInLog": false,
   "UseFuzzyTweakSearch": true,
-  "DismissedUpdateNotice": false,
   "ShowTweakDescriptions": true,
   "ShowTweakIDs": false,
   "CustomCulture": "",
@@ -66,7 +68,7 @@
   "LastSeenChangelog": "",
   "AutoOpenChangelog": false,
   "DisableChangelogNotification": false,
-  "MetricsIdentifier": null,
+  "MetricsIdentifier": "4D72684E2456CCC5226EA8326D824010111E42447C503BC4E5A6803974570BA6",
   "FestiveDecorationType": -2,
   "Version": 3
 }
