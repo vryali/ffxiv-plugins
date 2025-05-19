@@ -4,9 +4,9 @@
   "GlobalColor": false,
   "Color": {
     "$type": "System.Numerics.Vector4, System.Private.CoreLib",
-    "X": 1.0,
-    "Y": 0.6774193,
-    "Z": 0.0,
+    "X": 0.4556961,
+    "Y": 0.0,
+    "Z": 1.0,
     "W": 1.0
   },
   "DutyColors": {

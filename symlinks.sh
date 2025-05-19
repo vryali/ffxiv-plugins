@@ -21,7 +21,7 @@ done
 # Backup the characater config in case it gets hosed
 # Note: the / at the end of source is important, the lack of / at the end of target is important
 CHR_DATA='/home/vry/.xlcore/ffxivConfig/FFXIV_CHR00400000009ED79F/'
-GDRIVE="/data/Insync/jwolfe@orphicsolutions.com/Google Drive/Personal/FFXIV/FFXIV_CHR00400000009ED79F"
+GDRIVE="/data/Insync/jwolfe@orphicsolutions.com/Google/Personal/FFXIV/FFXIV_CHR00400000009ED79F"
 
 echo "Rsyncing over data from character file to gdrive"
 rsync -a --delete --progress "${CHR_DATA}" "${GDRIVE}"

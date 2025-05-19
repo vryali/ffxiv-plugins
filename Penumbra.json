@@ -6,7 +6,7 @@
   "Version": 9,
   "ChangeLogDisplayType": 0,
   "EnableMods": true,
-  "ModDirectory": "D:\\Programs\\SquareEnix",
+  "ModDirectory": "Z:\\home\\vry\\.ffxiv",
   "ExportDirectory": "",
   "UseCrashHandler": null,
   "OpenWindowAtStart": false,
@@ -14,6 +14,7 @@
   "HideUiInCutscenes": true,
   "HideUiWhenUiHidden": false,
   "UseDalamudUiTextureRedirection": true,
+  "AutoSelectCollection": false,
   "ShowModsInLobby": true,
   "UseCharacterCollectionInMainWindow": true,
   "UseCharacterCollectionsInCards": true,
@@ -26,7 +27,9 @@
   "HidePrioritiesInSelector": false,
   "HideRedrawBar": false,
   "HideMachinistOffhandFromChangedItems": true,
+  "DefaultTemporaryMode": false,
   "ShowRename": 4,
+  "ChangedItemDisplay": 0,
   "OptionGroupCollapsibleMin": 5,
   "DebugMode": false,
   "MaxResourceWatcherRecords": 1024,
@@ -47,6 +50,14 @@
       "Modifier": 16
     }
   },
+  "IncognitoModifier": {
+    "Modifier1": {
+      "Modifier": 17
+    },
+    "Modifier2": {
+      "Modifier": 0
+    }
+  },
   "PrintSuccessfulCommandsToChat": true,
   "AutoDeduplicateOnImport": true,
   "AutoReduplicateUiOnImport": true,
@@ -59,6 +70,7 @@
   "KeepDefaultMetaChanges": false,
   "DefaultModAuthor": "Unknown",
   "EditRawTileTransforms": false,
+  "HdrRenderTargets": true,
   "Colors": {
     "EnabledMod": 4294967295,
     "DisabledMod": 4285032576,
@@ -66,6 +78,7 @@
     "InheritedMod": 4291887103,
     "InheritedDisabledMod": 4285038720,
     "NewMod": 4284931430,
+    "NewModTint": 2147548928,
     "ConflictingMod": 4289374975,
     "HandledConflictMod": 4291887056,
     "FolderExpanded": 4294963392,
@@ -86,7 +99,10 @@
     "ResTreeNetworked": 4294967295,
     "ResTreeNonNetworked": 4290822399,
     "PredefinedTagAdd": 4282690116,
-    "PredefinedTagRemove": 4280427178
+    "PredefinedTagRemove": 4280427178,
+    "TemporaryModSettingsTint": 822018048,
+    "ChangedItemPreferenceStar": 822083583,
+    "NoTint": 0
   },
   "SortMode": "FoldersFirstT"
 }

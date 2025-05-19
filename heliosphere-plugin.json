@@ -3,6 +3,7 @@
   "UserId": "7369f5c2-b549-447c-969a-912e9a313673",
   "FirstTimeSetupComplete": true,
   "AutoUpdate": true,
+  "CheckForUpdates": true,
   "IncludeTags": true,
   "OpenPenumbraAfterInstall": true,
   "WarnAboutBreakingChanges": true,
@@ -12,6 +13,7 @@
   "NotificationsStartMinimised": false,
   "AllowCommandInstalls": true,
   "AllowCommandOneClick": false,
+  "UseRecycleBin": false,
   "TitlePrefix": "[HS] ",
   "PenumbraFolder": "Heliosphere",
   "DefaultCollectionId": null,
@@ -31,5 +33,6 @@
     "ShowButtons": true,
     "ImageSize": 0.375
   },
+  "LatestMigration": 1,
   "Version": 2
 }
