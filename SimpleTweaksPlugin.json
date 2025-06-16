@@ -26,7 +26,8 @@
     "UiAdjustments@SellMaxTripleTriadCards",
     "UiAdjustments@HideAchievementsNotifications",
     "UiAdjustments@HideExperienceBar",
-    "UiAdjustments@CastBarAdjustments"
+    "UiAdjustments@CastBarAdjustments",
+    "PhantomJobCommand"
   ],
   "HiddenTweaks": [],
   "CustomTweakProviders": [],
