@@ -1,6 +1,6 @@
 {
   "$type": "GoodOmen.Config, GoodOmen",
-  "Enabled": true,
+  "Enabled": false,
   "GlobalColor": true,
   "Color": {
     "$type": "System.Numerics.Vector4, System.Private.CoreLib",

@@ -2,12 +2,12 @@
   "$type": "Heliosphere.Configuration, heliosphere-plugin",
   "UserId": "7369f5c2-b549-447c-969a-912e9a313673",
   "FirstTimeSetupComplete": true,
-  "AutoUpdate": true,
-  "CheckForUpdates": true,
+  "LoginUpdateMode": 2,
   "IncludeTags": true,
   "OpenPenumbraAfterInstall": true,
   "WarnAboutBreakingChanges": true,
   "ReplaceSortName": true,
+  "ReplaceModName": true,
   "HideDefaultVariant": true,
   "UseNotificationProgress": true,
   "NotificationsStartMinimised": false,
@@ -33,6 +33,11 @@
     "ShowButtons": true,
     "ImageSize": 0.375
   },
+  "PackageSettings": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.Guid, System.Private.CoreLib],[Heliosphere.PackageSettings, heliosphere-plugin]], System.Private.CoreLib"
+  },
   "LatestMigration": 1,
-  "Version": 2
+  "AutoUpdate": true,
+  "CheckForUpdates": true,
+  "Version": 3
 }
